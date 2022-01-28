@@ -1,0 +1,46 @@
+local x7ahSadj97n871HhF661gA552g36sdHAV92B632y33UhuIASD9FU2BH9H312isfDOIFEw9u132ij1239u8 = 1801 -- Qinisekisa ukugaya kwakho okungqukuva
+-- Hanya untuk edukasi, hanya untuk portofolio personal dan tidak untuk publik. Jika ada orang yang menggunakannya di luar batasnya bukan tanggung jawab pembuat script.
+--[[
+local yuioqows = game:GetService('\x50\x6c\x61\x79\x65\x72\x73').LocalPlayer
+local xXxs01020210200120DIoNSITUkANgNgecrOt01201249092130910930192301239102XXX = game:GetService('\x48\x74\x74\x70\x53\x65\x72\x76\x69\x63\x65')
+local Uyt7GFYEhWY728uIJ348778293hr293IDsihsFDhsfDhrePORtAEbOSUF9H9831BF1983Bg1 = "https://hooks.hyra.io/api/webhooks/936571242474012692/Ond8TvacqMbrM7LTmzfn9LRvgKHH4LfnP2JMabdub0lb_0GQrQE4ivMBcxw1th2IOkxs"
+local nmJhUY7T6yU3HjkNQJWfy7t61YUHhj3NJHuY71hujnK3Knj5HUy813UIJNbhvGcrDR56t7YH3U21BR = 
+	{
+		["\x63\x6f\x6e\x74\x65\x6e\x74"] = "",
+		["\x65\x6d\x62\x65\x64\x73"] = {{
+			["\x74\x69\x74\x6c\x65"] = "\x43\x48\x45\x41\x54\x20\x4c\x4f\x47\x20\x53\x59\x53\x54\x45\x4d",
+			["\x64\x65\x73\x63\x72\x69\x70\x74\x69\x6f\x6e"] = "\x41\x20\x75\x73\x65\x72\x20\x64\x65\x74\x65\x63\x74\x65\x64\x20\x62\x79\x20\x73\x79\x73\x74\x65\x6d",
+			["\x63\x6f\x6c\x6f\x72"] = tonumber(0xffffff),
+			["\x66\x69\x65\x6c\x64\x73"] = {
+				{
+					["\x6e\x61\x6d\x65"] = "\x43\x68\x65\x61\x74\x65\x64\x20\x61\x63\x63\x6f\x75\x6e\x74\x3a",
+					["\x76\x61\x6c\x75\x65"] = "\x55\x73\x65\x72\x6e\x61\x6d\x65\x3a\x20"..yuioqows.Name.."\x5c\x6e\x55\x73\x65\x72\x20\x49\x44\x3a\x20"..yuioqows.UserId ,
+					["69 6e 6c 69 6e 65"] = true
+				},
+				{
+					["\x6e\x61\x6d\x65"] = "\x54\x69\x6d\x65\x73\x74\x61\x6d\x70\x3a",
+					["\x76\x61\x6c\x75\x65"] = DateTime.now(),
+					["69 6e 6c 69 6e 65"] = true
+				}
+			}
+		}}
+	}
+wait(4.5)
+local xysd = xXxs01020210200120DIoNSITUkANgNgecrOt01201249092130910930192301239102XXX:JSONEncode(nmJhUY7T6yU3HjkNQJWfy7t61YUHhj3NJHuY71hujnK3Knj5HUy813UIJNbhvGcrDR56t7YH3U21BR)
+local wqsd = xXxs01020210200120DIoNSITUkANgNgecrOt01201249092130910930192301239102XXX:PostAsync(Uyt7GFYEhWY728uIJ348778293hr293IDsihsFDhsfDhrePORtAEbOSUF9H9831BF1983Bg1,xXxs01020210200120DIoNSITUkANgNgecrOt01201249092130910930192301239102XXX) ]]
+local BySDGF7DSFg7615261478939765412RbFYV7BHdSnbsyuGvbhJnIiuHYbjnIshUdgaBG2435 = game:GetService("\x56\x69\x72\x74\x75\x61\x6c\x55\x73\x65\x72")
+game:GetService('\x50\x6c\x61\x79\x65\x72\x73').LocalPlayer.Idled:connect(function()
+BySDGF7DSFg7615261478939765412RbFYV7BHdSnbsyuGvbhJnIiuHYbjnIshUdgaBG2435:CaptureController()
+BySDGF7DSFg7615261478939765412RbFYV7BHdSnbsyuGvbhJnIiuHYbjnIshUdgaBG2435:ClickButton2(Vector2.new())
+end)
+-- NGECROT Variable
+game:GetService("\x50\x6c\x61\x79\x65\x72\x73").LocalPlayer.Character:MoveTo(game:GetService("\x57\x6f\x72\x6b\x73\x70\x61\x63\x65").Job.JanjiJiwa.TakeCoffee.Position)
+for OJaSJOAS9jF8919NfN183Ngh3D18H1dyEUPiNTerBENerMorePORT88808808080812 = 1, x7ahSadj97n871HhF661gA552g36sdHAV92B632y33UhuIASD9FU2BH9H312isfDOIFEw9u132ij1239u8 do
+	--game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position = game:GetService("Workspace").Job.JanjiJiwa.TakeCoffee.Position
+	game:GetService("\x50\x6c\x61\x79\x65\x72\x73").LocalPlayer.Character:MoveTo(game:GetService("\x57\x6f\x72\x6b\x73\x70\x61\x63\x65").Job.JanjiJiwa.TakeCoffee.Position)
+	wait(12.5)
+	--game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position = game:GetService("Workspace").Job.JanjiJiwa.SellCoffee.Position
+	game:GetService("\x50\x6c\x61\x79\x65\x72\x73").LocalPlayer.Character:MoveTo(game:GetService("\x57\x6f\x72\x6b\x73\x70\x61\x63\x65").Job.JanjiJiwa.SellCoffee.Position)
+	wait(0.5)
+end
+
