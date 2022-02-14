@@ -1,46 +1,707 @@
-local x7ahSadj97n871HhF661gA552g36sdHAV92B632y33UhuIASD9FU2BH9H312isfDOIFEw9u132ij1239u8 = 1801 -- Qinisekisa ukugaya kwakho okungqukuva
--- Hanya untuk edukasi, hanya untuk portofolio personal dan tidak untuk publik. Jika ada orang yang menggunakannya di luar batasnya bukan tanggung jawab pembuat script.
---[[
-local yuioqows = game:GetService('\x50\x6c\x61\x79\x65\x72\x73').LocalPlayer
-local xXxs01020210200120DIoNSITUkANgNgecrOt01201249092130910930192301239102XXX = game:GetService('\x48\x74\x74\x70\x53\x65\x72\x76\x69\x63\x65')
-local Uyt7GFYEhWY728uIJ348778293hr293IDsihsFDhsfDhrePORtAEbOSUF9H9831BF1983Bg1 = "https://hooks.hyra.io/api/webhooks/936571242474012692/Ond8TvacqMbrM7LTmzfn9LRvgKHH4LfnP2JMabdub0lb_0GQrQE4ivMBcxw1th2IOkxs"
-local nmJhUY7T6yU3HjkNQJWfy7t61YUHhj3NJHuY71hujnK3Knj5HUy813UIJNbhvGcrDR56t7YH3U21BR = 
-	{
-		["\x63\x6f\x6e\x74\x65\x6e\x74"] = "",
-		["\x65\x6d\x62\x65\x64\x73"] = {{
-			["\x74\x69\x74\x6c\x65"] = "\x43\x48\x45\x41\x54\x20\x4c\x4f\x47\x20\x53\x59\x53\x54\x45\x4d",
-			["\x64\x65\x73\x63\x72\x69\x70\x74\x69\x6f\x6e"] = "\x41\x20\x75\x73\x65\x72\x20\x64\x65\x74\x65\x63\x74\x65\x64\x20\x62\x79\x20\x73\x79\x73\x74\x65\x6d",
-			["\x63\x6f\x6c\x6f\x72"] = tonumber(0xffffff),
-			["\x66\x69\x65\x6c\x64\x73"] = {
-				{
-					["\x6e\x61\x6d\x65"] = "\x43\x68\x65\x61\x74\x65\x64\x20\x61\x63\x63\x6f\x75\x6e\x74\x3a",
-					["\x76\x61\x6c\x75\x65"] = "\x55\x73\x65\x72\x6e\x61\x6d\x65\x3a\x20"..yuioqows.Name.."\x5c\x6e\x55\x73\x65\x72\x20\x49\x44\x3a\x20"..yuioqows.UserId ,
-					["69 6e 6c 69 6e 65"] = true
-				},
-				{
-					["\x6e\x61\x6d\x65"] = "\x54\x69\x6d\x65\x73\x74\x61\x6d\x70\x3a",
-					["\x76\x61\x6c\x75\x65"] = DateTime.now(),
-					["69 6e 6c 69 6e 65"] = true
-				}
-			}
-		}}
-	}
-wait(4.5)
-local xysd = xXxs01020210200120DIoNSITUkANgNgecrOt01201249092130910930192301239102XXX:JSONEncode(nmJhUY7T6yU3HjkNQJWfy7t61YUHhj3NJHuY71hujnK3Knj5HUy813UIJNbhvGcrDR56t7YH3U21BR)
-local wqsd = xXxs01020210200120DIoNSITUkANgNgecrOt01201249092130910930192301239102XXX:PostAsync(Uyt7GFYEhWY728uIJ348778293hr293IDsihsFDhsfDhrePORtAEbOSUF9H9831BF1983Bg1,xXxs01020210200120DIoNSITUkANgNgecrOt01201249092130910930192301239102XXX) ]]
-local BySDGF7DSFg7615261478939765412RbFYV7BHdSnbsyuGvbhJnIiuHYbjnIshUdgaBG2435 = game:GetService("\x56\x69\x72\x74\x75\x61\x6c\x55\x73\x65\x72")
-game:GetService('\x50\x6c\x61\x79\x65\x72\x73').LocalPlayer.Idled:connect(function()
-BySDGF7DSFg7615261478939765412RbFYV7BHdSnbsyuGvbhJnIiuHYbjnIshUdgaBG2435:CaptureController()
-BySDGF7DSFg7615261478939765412RbFYV7BHdSnbsyuGvbhJnIiuHYbjnIshUdgaBG2435:ClickButton2(Vector2.new())
-end)
--- NGECROT Variable
-game:GetService("\x50\x6c\x61\x79\x65\x72\x73").LocalPlayer.Character:MoveTo(game:GetService("\x57\x6f\x72\x6b\x73\x70\x61\x63\x65").Job.JanjiJiwa.TakeCoffee.Position)
-for OJaSJOAS9jF8919NfN183Ngh3D18H1dyEUPiNTerBENerMorePORT88808808080812 = 1, x7ahSadj97n871HhF661gA552g36sdHAV92B632y33UhuIASD9FU2BH9H312isfDOIFEw9u132ij1239u8 do
-	--game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position = game:GetService("Workspace").Job.JanjiJiwa.TakeCoffee.Position
-	game:GetService("\x50\x6c\x61\x79\x65\x72\x73").LocalPlayer.Character:MoveTo(game:GetService("\x57\x6f\x72\x6b\x73\x70\x61\x63\x65").Job.JanjiJiwa.TakeCoffee.Position)
-	wait(14)
-	--game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position = game:GetService("Workspace").Job.JanjiJiwa.SellCoffee.Position
-	game:GetService("\x50\x6c\x61\x79\x65\x72\x73").LocalPlayer.Character:MoveTo(game:GetService("\x57\x6f\x72\x6b\x73\x70\x61\x63\x65").Job.JanjiJiwa.SellCoffee.Position)
-	wait(2)
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local CDIDXPLO = Instance.new("ScreenGui")
+local Main = Instance.new("Frame")
+local Top = Instance.new("Frame")
+local T1 = Instance.new("TextLabel")
+local NOTE = Instance.new("TextLabel")
+local Tab = Instance.new("Frame")
+local Tele = Instance.new("TextButton")
+local Job = Instance.new("TextButton")
+local Misc = Instance.new("TextButton")
+local MiscTAB = Instance.new("Frame")
+local TBA = Instance.new("TextLabel")
+local ImageLabel = Instance.new("ImageLabel")
+local TeleTAB = Instance.new("Frame")
+local TPBSD1 = Instance.new("TextButton")
+local TPPNCK = Instance.new("TextButton")
+local TPBANK = Instance.new("TextButton")
+local TPBKS = Instance.new("TextButton")
+local TPBNDG = Instance.new("TextButton")
+local TPSPWN = Instance.new("TextButton")
+local TPBSD0 = Instance.new("TextButton")
+local TPSLMB = Instance.new("TextButton")
+local TPSNTL = Instance.new("TextButton")
+local TPDAGO = Instance.new("TextButton")
+local JobTAB = Instance.new("Frame")
+local BSDGRND = Instance.new("TextButton")
+local DAGOGRND = Instance.new("TextButton")
+local BANKGRND = Instance.new("TextButton")
+local BOOM = Instance.new("TextButton")
+
+--Properties:
+
+CDIDXPLO.Name = "CDIDXPLO"
+CDIDXPLO.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+CDIDXPLO.ResetOnSpawn = false
+
+Main.Name = "Main"
+Main.Parent = CDIDXPLO
+Main.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+Main.BorderSizePixel = 0
+Main.Position = UDim2.new(0.347523868, 0, 0.270270288, 0)
+Main.Selectable = true
+Main.Size = UDim2.new(0, 459, 0, 303)
+
+Top.Name = "Top"
+Top.Parent = Main
+Top.BackgroundColor3 = Color3.fromRGB(47, 47, 47)
+Top.BorderSizePixel = 0
+Top.Position = UDim2.new(0, 0, -0.00109735387, 0)
+Top.Size = UDim2.new(1, 0, 0.149876654, 0)
+Top.ZIndex = 5
+
+T1.Name = "T1"
+T1.Parent = Top
+T1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+T1.BackgroundTransparency = 1.000
+T1.BorderSizePixel = 0
+T1.Position = UDim2.new(0.231811732, 0, 0.0286295656, 0)
+T1.Size = UDim2.new(0.532732546, 0, 0.928425193, 0)
+T1.ZIndex = 5
+T1.Font = Enum.Font.SourceSansSemibold
+T1.Text = "CDID Exploit V1"
+T1.TextColor3 = Color3.fromRGB(255, 255, 255)
+T1.TextScaled = true
+T1.TextSize = 14.000
+T1.TextStrokeColor3 = Color3.fromRGB(75, 75, 75)
+T1.TextStrokeTransparency = 0.000
+T1.TextWrapped = true
+
+NOTE.Name = "NOTE"
+NOTE.Parent = Main
+NOTE.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+NOTE.BackgroundTransparency = 1.000
+NOTE.Position = UDim2.new(0.13648653, 0, 0.922689497, 0)
+NOTE.Size = UDim2.new(0.719425201, 0, 0.0844418257, 0)
+NOTE.ZIndex = 6
+NOTE.Font = Enum.Font.SourceSansSemibold
+NOTE.Text = "Thanks for using our cheat!"
+NOTE.TextColor3 = Color3.fromRGB(255, 255, 255)
+NOTE.TextScaled = true
+NOTE.TextSize = 14.000
+NOTE.TextWrapped = true
+
+Tab.Name = "Tab"
+Tab.Parent = Main
+Tab.BackgroundColor3 = Color3.fromRGB(148, 148, 148)
+Tab.BorderSizePixel = 0
+Tab.Position = UDim2.new(0, 0, 0.140816867, 0)
+Tab.Size = UDim2.new(1, 0, 0.100371704, 0)
+Tab.ZIndex = 5
+
+Tele.Name = "Tele"
+Tele.Parent = Tab
+Tele.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+Tele.BorderSizePixel = 0
+Tele.Position = UDim2.new(0.0938908234, 0, 0.013567158, 0)
+Tele.Size = UDim2.new(0.174957931, 0, 0.920670509, 0)
+Tele.ZIndex = 5
+Tele.Font = Enum.Font.SourceSansSemibold
+Tele.Text = "Teleport"
+Tele.TextColor3 = Color3.fromRGB(255, 255, 255)
+Tele.TextScaled = true
+Tele.TextSize = 14.000
+Tele.TextWrapped = true
+
+Job.Name = "Job"
+Job.Parent = Tab
+Job.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+Job.BorderSizePixel = 0
+Job.Position = UDim2.new(0.409794956, 0, 0.013567158, 0)
+Job.Size = UDim2.new(0.174957931, 0, 0.920670509, 0)
+Job.ZIndex = 5
+Job.Font = Enum.Font.SourceSansSemibold
+Job.Text = "Job"
+Job.TextColor3 = Color3.fromRGB(255, 255, 255)
+Job.TextScaled = true
+Job.TextSize = 14.000
+Job.TextWrapped = true
+
+Misc.Name = "Misc"
+Misc.Parent = Tab
+Misc.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+Misc.BorderSizePixel = 0
+Misc.Position = UDim2.new(0.730056405, 0, 0.013567158, 0)
+Misc.Size = UDim2.new(0.174957931, 0, 0.920670509, 0)
+Misc.ZIndex = 5
+Misc.Font = Enum.Font.SourceSansSemibold
+Misc.Text = "Misc"
+Misc.TextColor3 = Color3.fromRGB(255, 255, 255)
+Misc.TextScaled = true
+Misc.TextSize = 14.000
+Misc.TextWrapped = true
+
+MiscTAB.Name = "MiscTAB"
+MiscTAB.Parent = Main
+MiscTAB.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+MiscTAB.BackgroundTransparency = 1.000
+MiscTAB.BorderSizePixel = 0
+MiscTAB.Position = UDim2.new(-0.001060009, 0, -0.000356763601, 0)
+MiscTAB.Selectable = true
+MiscTAB.Size = UDim2.new(0, 459, 0, 303)
+MiscTAB.Visible = false
+MiscTAB.ZIndex = 2
+
+TBA.Name = "TBA"
+TBA.Parent = MiscTAB
+TBA.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TBA.BackgroundTransparency = 0.750
+TBA.Position = UDim2.new(0.00106007035, 0, 0.234323427, 0)
+TBA.Size = UDim2.new(0, 458, 0, 232)
+TBA.ZIndex = 2
+TBA.Font = Enum.Font.Kalam
+TBA.Text = "To Be Added."
+TBA.TextColor3 = Color3.fromRGB(255, 255, 255)
+TBA.TextSize = 89.000
+
+ImageLabel.Parent = Main
+ImageLabel.BackgroundColor3 = Color3.fromRGB(43, 43, 43)
+ImageLabel.Size = UDim2.new(0, 459, 0, 303)
+
+TeleTAB.Name = "TeleTAB"
+TeleTAB.Parent = Main
+TeleTAB.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+TeleTAB.BackgroundTransparency = 1.000
+TeleTAB.BorderSizePixel = 0
+TeleTAB.Position = UDim2.new(-0.001060009, 0, -0.000356763601, 0)
+TeleTAB.Selectable = true
+TeleTAB.Size = UDim2.new(0, 459, 0, 303)
+TeleTAB.ZIndex = 2
+
+TPBSD1.Name = "TPBSD1"
+TPBSD1.Parent = TeleTAB
+TPBSD1.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+TPBSD1.BorderSizePixel = 0
+TPBSD1.Position = UDim2.new(0.0699256808, 0, 0.299032778, 0)
+TPBSD1.Size = UDim2.new(0.367314249, 0, 0.0978885219, 0)
+TPBSD1.ZIndex = 2
+TPBSD1.Font = Enum.Font.SourceSansSemibold
+TPBSD1.Text = "Teleport To BSD Mall"
+TPBSD1.TextColor3 = Color3.fromRGB(255, 255, 255)
+TPBSD1.TextScaled = true
+TPBSD1.TextSize = 14.000
+TPBSD1.TextWrapped = true
+
+TPPNCK.Name = "TPPNCK"
+TPPNCK.Parent = TeleTAB
+TPPNCK.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+TPPNCK.BorderSizePixel = 0
+TPPNCK.Position = UDim2.new(0.0699256808, 0, 0.562403023, 0)
+TPPNCK.Size = UDim2.new(0.367314249, 0, 0.0978885219, 0)
+TPPNCK.ZIndex = 2
+TPPNCK.Font = Enum.Font.SourceSansSemibold
+TPPNCK.Text = "Teleport To KFL Puncak"
+TPPNCK.TextColor3 = Color3.fromRGB(255, 255, 255)
+TPPNCK.TextScaled = true
+TPPNCK.TextSize = 14.000
+TPPNCK.TextWrapped = true
+
+TPBANK.Name = "TPBANK"
+TPBANK.Parent = TeleTAB
+TPBANK.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+TPBANK.BorderSizePixel = 0
+TPBANK.Position = UDim2.new(0.0699256808, 0, 0.430725187, 0)
+TPBANK.Size = UDim2.new(0.367314249, 0, 0.0978885219, 0)
+TPBANK.ZIndex = 2
+TPBANK.Font = Enum.Font.SourceSansSemibold
+TPBANK.Text = "Teleport To Office"
+TPBANK.TextColor3 = Color3.fromRGB(255, 255, 255)
+TPBANK.TextScaled = true
+TPBANK.TextSize = 14.000
+TPBANK.TextWrapped = true
+
+TPBKS.Name = "TPBKS"
+TPBKS.Parent = TeleTAB
+TPBKS.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+TPBKS.BorderSizePixel = 0
+TPBKS.Position = UDim2.new(0.561665177, 0, 0.430725187, 0)
+TPBKS.Size = UDim2.new(0.367314249, 0, 0.0978885219, 0)
+TPBKS.ZIndex = 2
+TPBKS.Font = Enum.Font.SourceSansSemibold
+TPBKS.Text = "Teleport To Bekasi"
+TPBKS.TextColor3 = Color3.fromRGB(255, 255, 255)
+TPBKS.TextScaled = true
+TPBKS.TextSize = 14.000
+TPBKS.TextWrapped = true
+
+TPBNDG.Name = "TPBNDG"
+TPBNDG.Parent = TeleTAB
+TPBNDG.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+TPBNDG.BorderSizePixel = 0
+TPBNDG.Position = UDim2.new(0.0699256808, 0, 0.694416344, 0)
+TPBNDG.Size = UDim2.new(0.367314249, 0, 0.0978885219, 0)
+TPBNDG.ZIndex = 2
+TPBNDG.Font = Enum.Font.SourceSansSemibold
+TPBNDG.Text = "Teleport To Bandung"
+TPBNDG.TextColor3 = Color3.fromRGB(255, 255, 255)
+TPBNDG.TextScaled = true
+TPBNDG.TextSize = 14.000
+TPBNDG.TextWrapped = true
+
+TPSPWN.Name = "TPSPWN"
+TPSPWN.Parent = TeleTAB
+TPSPWN.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+TPSPWN.BorderSizePixel = 0
+TPSPWN.Position = UDim2.new(0.0699256808, 0, 0.823129237, 0)
+TPSPWN.Size = UDim2.new(0.367314249, 0, 0.0978885219, 0)
+TPSPWN.ZIndex = 2
+TPSPWN.Font = Enum.Font.SourceSansSemibold
+TPSPWN.Text = "Teleport To Spawn"
+TPSPWN.TextColor3 = Color3.fromRGB(255, 255, 255)
+TPSPWN.TextScaled = true
+TPSPWN.TextSize = 14.000
+TPSPWN.TextWrapped = true
+
+TPBSD0.Name = "TPBSD0"
+TPBSD0.Parent = TeleTAB
+TPBSD0.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+TPBSD0.BorderSizePixel = 0
+TPBSD0.Position = UDim2.new(0.561665177, 0, 0.299032778, 0)
+TPBSD0.Size = UDim2.new(0.367314249, 0, 0.0978885219, 0)
+TPBSD0.ZIndex = 2
+TPBSD0.Font = Enum.Font.SourceSansSemibold
+TPBSD0.Text = "Teleport To BSD Silambat"
+TPBSD0.TextColor3 = Color3.fromRGB(255, 255, 255)
+TPBSD0.TextScaled = true
+TPBSD0.TextSize = 14.000
+TPBSD0.TextWrapped = true
+
+TPSLMB.Name = "TPSLMB"
+TPSLMB.Parent = TeleTAB
+TPSLMB.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+TPSLMB.BorderSizePixel = 0
+TPSLMB.Position = UDim2.new(0.561665177, 0, 0.823129237, 0)
+TPSLMB.Size = UDim2.new(0.367314249, 0, 0.0978885219, 0)
+TPSLMB.ZIndex = 2
+TPSLMB.Font = Enum.Font.SourceSansSemibold
+TPSLMB.Text = "Teleport To Courier Job"
+TPSLMB.TextColor3 = Color3.fromRGB(255, 255, 255)
+TPSLMB.TextScaled = true
+TPSLMB.TextSize = 14.000
+TPSLMB.TextWrapped = true
+
+TPSNTL.Name = "TPSNTL"
+TPSNTL.Parent = TeleTAB
+TPSNTL.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+TPSNTL.BorderSizePixel = 0
+TPSNTL.Position = UDim2.new(0.561665177, 0, 0.562403023, 0)
+TPSNTL.Size = UDim2.new(0.367314249, 0, 0.0978885219, 0)
+TPSNTL.ZIndex = 2
+TPSNTL.Font = Enum.Font.SourceSansSemibold
+TPSNTL.Text = "Teleport To Sentul"
+TPSNTL.TextColor3 = Color3.fromRGB(255, 255, 255)
+TPSNTL.TextScaled = true
+TPSNTL.TextSize = 14.000
+TPSNTL.TextWrapped = true
+
+TPDAGO.Name = "TPDAGO"
+TPDAGO.Parent = TeleTAB
+TPDAGO.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+TPDAGO.BorderSizePixel = 0
+TPDAGO.Position = UDim2.new(0.561665177, 0, 0.694416344, 0)
+TPDAGO.Size = UDim2.new(0.367314249, 0, 0.0978885219, 0)
+TPDAGO.ZIndex = 2
+TPDAGO.Font = Enum.Font.SourceSansSemibold
+TPDAGO.Text = "Teleport To DAGO"
+TPDAGO.TextColor3 = Color3.fromRGB(255, 255, 255)
+TPDAGO.TextScaled = true
+TPDAGO.TextSize = 14.000
+TPDAGO.TextWrapped = true
+
+JobTAB.Name = "JobTAB"
+JobTAB.Parent = Main
+JobTAB.BackgroundColor3 = Color3.fromRGB(61, 61, 61)
+JobTAB.BackgroundTransparency = 1.000
+JobTAB.BorderSizePixel = 0
+JobTAB.Position = UDim2.new(-0.001060009, 0, -0.000356763601, 0)
+JobTAB.Selectable = true
+JobTAB.Size = UDim2.new(0, 459, 0, 303)
+JobTAB.Visible = false
+JobTAB.ZIndex = 2
+
+BSDGRND.Name = "BSDGRND"
+BSDGRND.Parent = JobTAB
+BSDGRND.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+BSDGRND.BorderSizePixel = 0
+BSDGRND.Position = UDim2.new(0.093890816, 0, 0.355138391, 0)
+BSDGRND.Size = UDim2.new(0.34905237, 0, 0.200198784, 0)
+BSDGRND.ZIndex = 2
+BSDGRND.Font = Enum.Font.SourceSansSemibold
+BSDGRND.Text = "Barista BSD Auto Grind"
+BSDGRND.TextColor3 = Color3.fromRGB(255, 255, 255)
+BSDGRND.TextScaled = true
+BSDGRND.TextSize = 14.000
+BSDGRND.TextWrapped = true
+
+DAGOGRND.Name = "DAGOGRND"
+DAGOGRND.Parent = JobTAB
+DAGOGRND.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+DAGOGRND.BorderSizePixel = 0
+DAGOGRND.Position = UDim2.new(0.555961907, 0, 0.355138391, 0)
+DAGOGRND.Size = UDim2.new(0.34905237, 0, 0.200198784, 0)
+DAGOGRND.ZIndex = 2
+DAGOGRND.Font = Enum.Font.SourceSansSemibold
+DAGOGRND.Text = "Barista DAGO Auto Grind"
+DAGOGRND.TextColor3 = Color3.fromRGB(255, 255, 255)
+DAGOGRND.TextScaled = true
+DAGOGRND.TextSize = 14.000
+DAGOGRND.TextWrapped = true
+
+BANKGRND.Name = "BANKGRND"
+BANKGRND.Parent = JobTAB
+BANKGRND.BackgroundColor3 = Color3.fromRGB(109, 109, 109)
+BANKGRND.BorderSizePixel = 0
+BANKGRND.Position = UDim2.new(0.325025082, 0, 0.671970069, 0)
+BANKGRND.Size = UDim2.new(0.34905237, 0, 0.200198784, 0)
+BANKGRND.ZIndex = 2
+BANKGRND.Font = Enum.Font.SourceSansSemibold
+BANKGRND.Text = "Office Auto Grind"
+BANKGRND.TextColor3 = Color3.fromRGB(255, 255, 255)
+BANKGRND.TextScaled = true
+BANKGRND.TextSize = 14.000
+BANKGRND.TextWrapped = true
+
+BOOM.Name = "BOOM"
+BOOM.Parent = Main
+BOOM.BackgroundColor3 = Color3.fromRGB(255, 0, 0)
+BOOM.Position = UDim2.new(0.945533752, 0, 0.000720389187, 0)
+BOOM.Size = UDim2.new(0, 25, 0, 25)
+BOOM.ZIndex = 6
+BOOM.Font = Enum.Font.SourceSans
+BOOM.Text = "X"
+BOOM.TextColor3 = Color3.fromRGB(255, 255, 255)
+BOOM.TextSize = 24.000
+
+-- Module Scripts:
+
+local fake_module_scripts = {}
+
+do -- CDIDXPLO.DraggableObject
+	local script = Instance.new('ModuleScript', CDIDXPLO)
+	script.Name = "DraggableObject"
+	local function module_script()
+		--[[
+			@Author: Spynaz
+			@Description: Enables dragging on GuiObjects. Supports both mouse and touch.
+			
+			For instructions on how to use this module, go to this link:
+			https://devforum.roblox.com/t/simple-module-for-creating-draggable-gui-elements/230678
+		--]]
+		
+		local UDim2_new = UDim2.new
+		
+		local UserInputService = game:GetService("UserInputService")
+		
+		local DraggableObject 		= {}
+		DraggableObject.__index 	= DraggableObject
+		
+		-- Sets up a new draggable object
+		function DraggableObject.new(Object)
+			local self 			= {}
+			self.Object			= Object
+			self.DragStarted	= nil
+			self.DragEnded		= nil
+			self.Dragged		= nil
+			self.Dragging		= false
+			
+			setmetatable(self, DraggableObject)
+			
+			return self
+		end
+		
+		-- Enables dragging
+		function DraggableObject:Enable()
+			local object			= self.Object
+			local dragInput			= nil
+			local dragStart			= nil
+			local startPos			= nil
+			local preparingToDrag	= false
+			
+			-- Updates the element
+			local function update(input)
+				local delta 		= input.Position - dragStart
+				local newPosition	= UDim2_new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+				object.Position 	= newPosition
+			
+				return newPosition
+			end
+			
+			self.InputBegan = object.InputBegan:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+					preparingToDrag = true
+					--[[if self.DragStarted then
+						self.DragStarted()
+					end
+					
+					dragging	 	= true
+					dragStart 		= input.Position
+					startPos 		= Element.Position
+					--]]
+					
+					local connection 
+					connection = input.Changed:Connect(function()
+						if input.UserInputState == Enum.UserInputState.End and (self.Dragging or preparingToDrag) then
+							self.Dragging = false
+							connection:Disconnect()
+							
+							if self.DragEnded and not preparingToDrag then
+								self.DragEnded()
+							end
+							
+							preparingToDrag = false
+						end
+					end)
+				end
+			end)
+			
+			self.InputChanged = object.InputChanged:Connect(function(input)
+				if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+					dragInput = input
+				end
+			end)
+			
+			self.InputChanged2 = UserInputService.InputChanged:Connect(function(input)
+				if object.Parent == nil then
+					self:Disable()
+					return
+				end
+				
+				if preparingToDrag then
+					preparingToDrag = false
+					
+					if self.DragStarted then
+						self.DragStarted()
+					end
+					
+					self.Dragging	= true
+					dragStart 		= input.Position
+					startPos 		= object.Position
+				end
+				
+				if input == dragInput and self.Dragging then
+					local newPosition = update(input)
+					
+					if self.Dragged then
+						self.Dragged(newPosition)
+					end
+				end
+			end)
+		end
+		
+		-- Disables dragging
+		function DraggableObject:Disable()
+			self.InputBegan:Disconnect()
+			self.InputChanged:Disconnect()
+			self.InputChanged2:Disconnect()
+			
+			if self.Dragging then
+				self.Dragging = false
+				
+				if self.DragEnded then
+					self.DragEnded()
+				end
+			end
+		end
+		
+		return DraggableObject
+		
+	end
+	fake_module_scripts[script] = module_script
 end
 
+
+-- Scripts:
+
+local function USXY_fake_script() -- Main.UIManager 
+	local script = Instance.new('LocalScript', Main)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+	-- Anti AFK Function
+	local AntiAFK = game:GetService("VirtualUser")
+	game:service('Players').LocalPlayer.Idled:connect(function(Time) --Setiap player ke detect idle dia akan otomatis klik mouse secara virtual
+	print("Player has been idle for " .. Time .. " seconds")
+	AntiAFK:CaptureController()
+	AntiAFK:ClickButton2(Vector2.new())
+	end)
+
+	--Drag system
+	local DraggableObject	= require(script.Parent.Parent.DraggableObject)
+	local FrameDrag 		= DraggableObject.new(script.Parent.Parent.Main)
+	FrameDrag:Enable()
+
+	-- Anti AFK Function
+	local v2 = game:GetService("VirtualUser")
+	game:service('Players').LocalPlayer.Idled:connect(function(v4) --Setiap player ke detect idle dia akan otomatis klik mouse secara virtual
+	print("Player has been idle for " .. v4 .. " seconds")
+	v2:CaptureController()
+	v2:ClickButton2(Vector2.new())
+	end)
+
+	--Ka Boom
+	script.Parent.BOOM.MouseButton1Click:Connect(function()
+		print("Exiting CDID Exploit V1 -- Thanks for using me")
+		script.Parent.Parent:Destroy()
+	end)
+	-- Tab Script
+	script.Parent.Tab.Tele.MouseButton1Click:Connect(function()
+		script.Parent.TeleTAB.Visible = true
+		script.Parent.MiscTAB.Visible = false
+		script.Parent.JobTAB.Visible = false
+	end)
+	
+	script.Parent.Tab.Job.MouseButton1Click:Connect(function()
+		script.Parent.TeleTAB.Visible = false
+		script.Parent.MiscTAB.Visible = false
+		script.Parent.JobTAB.Visible = true
+	end)
+	
+	script.Parent.Tab.Misc.MouseButton1Click:Connect(function()
+		script.Parent.TeleTAB.Visible = false
+		script.Parent.MiscTAB.Visible = true
+		script.Parent.JobTAB.Visible = false
+	end)
+
+	local Canloop = false
+	BSDGRND.MouseButton1Click:Connect(function()
+		if Canloop then 
+			Canloop = false
+		else
+			Canloop = true
+		end
+	end)
+
+	while true do 
+		wait()
+		if Canloop then 
+			game:GetService("Players").LocalPlayer.Character:MoveTo(game:GetService("Workspace").Job.JanjiJiwa.TakeCoffee.Position)
+			wait(14)
+			game:GetService("Players").LocalPlayer.Character:MoveTo(game:GetService("Workspace").Job.JanjiJiwa.SellCoffee.Position)
+			wait(2)
+		end
+	end
+end
+coroutine.wrap(USXY_fake_script)()
+local function TRMSYQE_fake_script() -- Main.Tele Script 
+	local script = Instance.new('LocalScript', Main)
+	local req = require
+	local require = function(obj)
+		local fake = fake_module_scripts[obj]
+		if fake then
+			return fake()
+		end
+		return req(obj)
+	end
+
+	local v1 = game.Players.LocalPlayer
+	script.Parent.TeleTAB.TPBANK.MouseButton1Click:Connect(function()
+		local v2 = v1.Character or v1.CharacterAdded:Wait()
+		v2:WaitForChild("HumanoidRootPart").Anchored = true
+		NOTE.Text = ("Please Wait, Teleporting to Office...")
+		game:GetService("Players").LocalPlayer.Character:MoveTo(Vector3.new(-23182.8, 21.7561, 6207.98))
+		wait(3)
+		v2:WaitForChild("HumanoidRootPart").Anchored = false
+		NOTE.Text = ("Sucessfully teleport..")
+	end)
+	
+	script.Parent.TeleTAB.TPBKS.MouseButton1Click:Connect(function()
+		local v2 = v1.Character or v1.CharacterAdded:Wait()
+		v2:WaitForChild("HumanoidRootPart").Anchored = true
+		NOTE.Text = ("Please Wait, Teleporting to Bekasi Warehouse...")
+		game:GetService("Players").LocalPlayer.Character:MoveTo(Vector3.new(-14886.9, 50.0561, 846.502))
+		wait(3)
+		v2:WaitForChild("HumanoidRootPart").Anchored = false
+		NOTE.Text = ("Sucessfully teleport..")
+	end)
+	
+	script.Parent.TeleTAB.TPBNDG.MouseButton1Click:Connect(function()
+		local v2 = v1.Character or v1.CharacterAdded:Wait()
+		v2:WaitForChild("HumanoidRootPart").Anchored = true
+		NOTE.Text = ("Please Wait, Teleporting to Silambat Bandung...")
+		game:GetService("Players").LocalPlayer.Character:MoveTo(Vector3.new(-5276.25, 207.482, 27558.8))
+		wait(3)
+		v2:WaitForChild("HumanoidRootPart").Anchored = false
+		NOTE.Text = ("Sucessfully teleport..")
+	end)
+	
+	script.Parent.TeleTAB.TPBSD0.MouseButton1Click:Connect(function()
+		local v2 = v1.Character or v1.CharacterAdded:Wait()
+		v2:WaitForChild("HumanoidRootPart").Anchored = true
+		NOTE.Text = ("Please Wait, Teleporting to Silambat BSD...")
+		game:GetService("Players").LocalPlayer.Character:MoveTo(Vector3.new(-26146.2, 23.6642, 14365.7))
+		wait(3)
+		v2:WaitForChild("HumanoidRootPart").Anchored = false
+		NOTE.Text = ("Sucessfully teleport..")
+	end)
+	
+	script.Parent.TeleTAB.TPBSD1.MouseButton1Click:Connect(function()
+		local v2 = v1.Character or v1.CharacterAdded:Wait()
+		v2:WaitForChild("HumanoidRootPart").Anchored = true
+		NOTE.Text = ("Please Wait, Teleporting to BSD Mall...")
+		game:GetService("Players").LocalPlayer.Character:MoveTo(Vector3.new(-22789.1, 25.2373, 15369.3))
+		wait(3)
+		v2:WaitForChild("HumanoidRootPart").Anchored = false
+		NOTE.Text = ("Sucessfully teleport..")
+	end)
+	
+	script.Parent.TeleTAB.TPDAGO.MouseButton1Click:Connect(function()
+		local v2 = v1.Character or v1.CharacterAdded:Wait()
+		v2:WaitForChild("HumanoidRootPart").Anchored = true
+		NOTE.Text = ("Please Wait, Teleporting to Janji Jawa DAGO...")
+		game:GetService("Players").LocalPlayer.Character:MoveTo(Vector3.new(-1866.94, 205.506, 29428.7))
+		wait(3)
+		v2:WaitForChild("HumanoidRootPart").Anchored = false
+		NOTE.Text = ("Sucessfully teleport..")
+	end)
+	
+	script.Parent.TeleTAB.TPPNCK.MouseButton1Click:Connect(function()
+		local v2 = v1.Character or v1.CharacterAdded:Wait()
+		v2:WaitForChild("HumanoidRootPart").Anchored = true
+		NOTE.Text = ("Please Wait, Teleporting to KFL Puncak...")
+		game:GetService("Players").LocalPlayer.Character:MoveTo(Vector3.new(-13016, 175.86, 26515.7))
+		wait(3)
+		v2:WaitForChild("HumanoidRootPart").Anchored = false
+		NOTE.Text = ("Sucessfully teleport..")
+	end)
+	
+	script.Parent.TeleTAB.TPSLMB.MouseButton1Click:Connect(function()
+		local v2 = v1.Character or v1.CharacterAdded:Wait()
+		v2:WaitForChild("HumanoidRootPart").Anchored = true
+		NOTE.Text = ("Please Wait, Teleporting to Silambat Headquater...")
+		game:GetService("Players").LocalPlayer.Character:MoveTo(Vector3.new(-25632.7, 21.6908, 9016.23))
+		wait(3)
+		v2:WaitForChild("HumanoidRootPart").Anchored = false
+		NOTE.Text = ("Sucessfully teleport..")
+	end)
+	
+	script.Parent.TeleTAB.TPSNTL.MouseButton1Click:Connect(function()
+		local v2 = v1.Character or v1.CharacterAdded:Wait()
+		v2:WaitForChild("HumanoidRootPart").Anchored = true
+		NOTE.Text = ("Please Wait, Teleporting to Sentul Sircuit...")
+		game:GetService("Players").LocalPlayer.Character:MoveTo(Vector3.new(-16748.5, -17.8239, 18904.4))
+		wait(3)
+		v2:WaitForChild("HumanoidRootPart").Anchored = false
+		NOTE.Text = ("Sucessfully teleport..")
+	end)
+	
+	script.Parent.TeleTAB.TPSPWN.MouseButton1Click:Connect(function()
+		local v2 = v1.Character or v1.CharacterAdded:Wait()
+		v2:WaitForChild("HumanoidRootPart").Anchored = true
+		NOTE.Text = ("Please Wait, Teleporting to Spawn...")
+		game:GetService("Players").LocalPlayer.Character:MoveTo(Vector3.new(-25255.9, 34.5299, 8719.96))
+		wait(3)
+		v2:WaitForChild("HumanoidRootPart").Anchored = false
+		NOTE.Text = ("Sucessfully teleport..")
+	end)
+	
+end
+coroutine.wrap(TRMSYQE_fake_script)()
