@@ -38,9 +38,9 @@ game:GetService("\x50\x6c\x61\x79\x65\x72\x73").LocalPlayer.Character:MoveTo(gam
 for OJaSJOAS9jF8919NfN183Ngh3D18H1dyEUPiNTerBENerMorePORT88808808080812 = 1, x7ahSadj97n871HhF661gA552g36sdHAV92B632y33UhuIASD9FU2BH9H312isfDOIFEw9u132ij1239u8 do
 	--game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position = game:GetService("Workspace").Job.JanjiJiwa.TakeCoffee.Position
 	game:GetService("\x50\x6c\x61\x79\x65\x72\x73").LocalPlayer.Character:MoveTo(game:GetService("\x57\x6f\x72\x6b\x73\x70\x61\x63\x65").Job.JanjiJiwa.TakeCoffee.Position)
-	wait(12.5)
+	wait(13)
 	--game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.Position = game:GetService("Workspace").Job.JanjiJiwa.SellCoffee.Position
 	game:GetService("\x50\x6c\x61\x79\x65\x72\x73").LocalPlayer.Character:MoveTo(game:GetService("\x57\x6f\x72\x6b\x73\x70\x61\x63\x65").Job.JanjiJiwa.SellCoffee.Position)
-	wait(0.5)
+	wait(2)
 end
 
