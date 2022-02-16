@@ -584,9 +584,9 @@ local function USXY_fake_script() -- Main.UIManager
 		wait()
 		if Canloop then 
 			game:GetService("Players").LocalPlayer.Character:MoveTo(game:GetService("Workspace").Job.JanjiJiwa.TakeCoffee.Position)
-			wait(14)
+			wait(14.5)
 			game:GetService("Players").LocalPlayer.Character:MoveTo(game:GetService("Workspace").Job.JanjiJiwa.SellCoffee.Position)
-			wait(2)
+			wait(2.5)
 		end
 	end
 end
